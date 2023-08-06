@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[7471],{3238:t=>{t.exports=JSON.parse('{"label":"State","permalink":"/tags/state","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/state-management/index","title":"State management","description":"Links","permalink":"/frontend/state-management/"}]}')}}]);

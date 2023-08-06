@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6359],{9399:e=>{e.exports=JSON.parse('{"label":"Mobile","permalink":"/tags/mobile","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/mobile-apps/index","title":"Mobile apps","description":"Links","permalink":"/frontend/mobile-apps/"}]}')}}]);

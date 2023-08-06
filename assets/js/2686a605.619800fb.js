@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[1963],{5663:n=>{n.exports=JSON.parse('{"label":"Frontend","permalink":"/tags/frontend","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/frontend/index","title":"Frontend","description":"Links","permalink":"/frontend/frontend/"}]}')}}]);

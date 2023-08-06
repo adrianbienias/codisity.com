@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6370],{5876:i=>{i.exports=JSON.parse('{"label":"Tailwind","permalink":"/tags/tailwind","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/css/tailwind-css/index","title":"Tailwind CSS","description":"Links","permalink":"/frontend/css/tailwind-css/"}]}')}}]);
