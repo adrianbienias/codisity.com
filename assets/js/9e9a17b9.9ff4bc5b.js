@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[462],{2160:i=>{i.exports=JSON.parse('{"label":"UI","permalink":"/tags/ui","allTagsPath":"/tags","count":1,"items":[{"id":"ux-ui/ux-ui-design","title":"UX/UI design","description":"Links","permalink":"/ux-ui/ux-ui-design"}]}')}}]);
