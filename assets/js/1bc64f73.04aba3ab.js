@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4003],{1460:s=>{s.exports=JSON.parse('{"label":"Design patterns","permalink":"/tags/design-patterns","allTagsPath":"/tags","count":1,"items":[{"id":"basics/software/design-patterns","title":"Design patterns","description":"Links","permalink":"/basics/software/design-patterns"}]}')}}]);

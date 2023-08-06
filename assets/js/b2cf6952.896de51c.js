@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[7995],{6932:t=>{t.exports=JSON.parse('{"label":"ESLint","permalink":"/tags/es-lint","allTagsPath":"/tags","count":1,"items":[{"id":"basics/code-editors/code-formatting","title":"Code formatting","description":"Links","permalink":"/basics/code-editors/code-formatting"}]}')}}]);

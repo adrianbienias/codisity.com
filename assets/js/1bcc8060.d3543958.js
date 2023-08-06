@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[9779],{6859:s=>{s.exports=JSON.parse('{"label":"VSCode","permalink":"/tags/vs-code","allTagsPath":"/tags","count":1,"items":[{"id":"basics/code-editors/visual-studio-code","title":"Visual Studio Code","description":"Links","permalink":"/basics/code-editors/visual-studio-code"}]}')}}]);

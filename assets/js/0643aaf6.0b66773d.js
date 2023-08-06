@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2629],{6674:a=>{a.exports=JSON.parse('{"label":"JavaScript","permalink":"/tags/java-script","allTagsPath":"/tags","count":1,"items":[{"id":"basics/programming-languages/javascript","title":"JavaScript","description":"Links","permalink":"/basics/programming-languages/javascript"}]}')}}]);

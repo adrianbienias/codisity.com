@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6098],{6583:s=>{s.exports=JSON.parse('{"label":"Microsoft","permalink":"/tags/microsoft","allTagsPath":"/tags","count":1,"items":[{"id":"basics/operating-systems/windows","title":"Windows","description":"Links","permalink":"/basics/operating-systems/windows"}]}')}}]);

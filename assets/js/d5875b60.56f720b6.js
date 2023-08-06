@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[8942],{249:s=>{s.exports=JSON.parse('{"label":"API","permalink":"/tags/api","allTagsPath":"/tags","count":1,"items":[{"id":"basics/software/api","title":"API","description":"Links","permalink":"/basics/software/api"}]}')}}]);

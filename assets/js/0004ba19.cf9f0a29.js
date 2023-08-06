@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[9228],{4010:c=>{c.exports=JSON.parse('{"label":"Cache","permalink":"/tags/cache","allTagsPath":"/tags","count":1,"items":[{"id":"basics/cache/index","title":"Cache","description":"Links","permalink":"/basics/cache/"}]}')}}]);

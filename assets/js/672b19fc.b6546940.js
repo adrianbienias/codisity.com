@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6782],{4119:e=>{e.exports=JSON.parse('{"label":"I/O","permalink":"/tags/i-o","allTagsPath":"/tags","count":1,"items":[{"id":"basics/computer-hardware/index","title":"Computer hardware","description":"Links","permalink":"/basics/computer-hardware/"}]}')}}]);

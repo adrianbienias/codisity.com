@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5019],{3217:s=>{s.exports=JSON.parse('{"label":"Algorithm","permalink":"/tags/algorithm","allTagsPath":"/tags","count":1,"items":[{"id":"basics/software/algorithms","title":"Algorithms","description":"Links","permalink":"/basics/software/algorithms"}]}')}}]);

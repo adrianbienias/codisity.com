@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6545],{5626:e=>{e.exports=JSON.parse('{"label":"DDD","permalink":"/tags/ddd","allTagsPath":"/tags","count":1,"items":[{"id":"basics/project-management/index","title":"Project management","description":"Links","permalink":"/basics/project-management/"}]}')}}]);

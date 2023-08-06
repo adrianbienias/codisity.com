@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[1717],{2039:e=>{e.exports=JSON.parse('{"label":"CR","permalink":"/tags/cr","allTagsPath":"/tags","count":1,"items":[{"id":"basics/version-control/code-review","title":"Code review","description":"Links","permalink":"/basics/version-control/code-review"}]}')}}]);

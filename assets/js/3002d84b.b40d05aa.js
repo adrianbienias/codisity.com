@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5363],{8236:s=>{s.exports=JSON.parse('{"label":"VPS","permalink":"/tags/vps","allTagsPath":"/tags","count":1,"items":[{"id":"basics/hosting/index","title":"Hosting","description":"Links","permalink":"/basics/hosting/"}]}')}}]);

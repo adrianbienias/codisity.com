@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[3259],{6677:a=>{a.exports=JSON.parse('{"label":"OOP","permalink":"/tags/oop","allTagsPath":"/tags","count":1,"items":[{"id":"basics/software/programming-paradigms","title":"Programming paradigms","description":"Links","permalink":"/basics/software/programming-paradigms"}]}')}}]);

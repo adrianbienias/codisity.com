@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[8649],{4323:s=>{s.exports=JSON.parse('{"label":"RegEx","permalink":"/tags/reg-ex","allTagsPath":"/tags","count":1,"items":[{"id":"basics/software/regular-expressions","title":"Regular expressions","description":"Links","permalink":"/basics/software/regular-expressions"}]}')}}]);

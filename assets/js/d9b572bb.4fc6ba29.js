@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[298],{9057:e=>{e.exports=JSON.parse('{"label":"CS","permalink":"/tags/cs","allTagsPath":"/tags","count":1,"items":[{"id":"basics/computer-science/index","title":"Computer science","description":"Links","permalink":"/basics/computer-science/"}]}')}}]);

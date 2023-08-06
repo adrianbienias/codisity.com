@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[1851],{1148:i=>{i.exports=JSON.parse('{"label":"IT","permalink":"/tags/it","allTagsPath":"/tags","count":1,"items":[{"id":"basics/work-in-it/index","title":"Work in IT","description":"Links","permalink":"/basics/work-in-it/"}]}')}}]);

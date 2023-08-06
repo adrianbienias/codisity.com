@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4054],{4838:s=>{s.exports=JSON.parse('{"label":"SemVer","permalink":"/tags/sem-ver","allTagsPath":"/tags","count":1,"items":[{"id":"basics/version-control/index","title":"Version control","description":"Links","permalink":"/basics/version-control/"}]}')}}]);
