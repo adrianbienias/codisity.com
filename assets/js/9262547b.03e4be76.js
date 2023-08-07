@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5819],{8457:t=>{t.exports=JSON.parse('{"label":"Stripe","permalink":"/tags/stripe","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/payment-gateways/index","title":"Payment gateways","description":"Links","permalink":"/fullstack/payment-gateways/"}]}')}}]);

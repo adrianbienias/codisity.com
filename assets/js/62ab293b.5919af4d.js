@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[370],{5909:i=>{i.exports=JSON.parse('{"label":"Notification","permalink":"/tags/notification","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/push-notifications/index","title":"Push notifications","description":"Links","permalink":"/fullstack/push-notifications/"}]}')}}]);
