@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5532],{2505:a=>{a.exports=JSON.parse('{"label":"ORM","permalink":"/tags/orm","allTagsPath":"/tags","count":1,"items":[{"id":"backend/databases/object-relational-mapping","title":"Object-relational mapping","description":"Links","permalink":"/backend/databases/object-relational-mapping"}]}')}}]);

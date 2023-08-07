@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[8363],{835:e=>{e.exports=JSON.parse('{"label":"CMS","permalink":"/tags/cms","allTagsPath":"/tags","count":1,"items":[{"id":"backend/content-management-systems/index","title":"Content management systems","description":"Links","permalink":"/backend/content-management-systems/"}]}')}}]);

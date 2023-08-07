@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6501],{6187:i=>{i.exports=JSON.parse('{"label":"Grafana","permalink":"/tags/grafana","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"Links","permalink":"/backend/monitoring/"}]}')}}]);

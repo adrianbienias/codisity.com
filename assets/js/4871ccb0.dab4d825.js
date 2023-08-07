@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[9965],{801:a=>{a.exports=JSON.parse('{"label":"IaaS","permalink":"/tags/iaa-s","allTagsPath":"/tags","count":1,"items":[{"id":"backend/infrastructure/index","title":"Infrastructure","description":"Links","permalink":"/backend/infrastructure/"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4005],{5063:a=>{a.exports=JSON.parse('{"label":"GraphQL","permalink":"/tags/graph-ql","allTagsPath":"/tags","count":1,"items":[{"id":"backend/backend-api/graphql","title":"GraphQL","description":"Links","permalink":"/backend/backend-api/graphql"}]}')}}]);

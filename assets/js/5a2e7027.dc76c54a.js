@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[9531],{4480:e=>{e.exports=JSON.parse('{"label":"RabbitMQ","permalink":"/tags/rabbit-mq","allTagsPath":"/tags","count":1,"items":[{"id":"backend/message-brokers/index","title":"Message brokers","description":"Links","permalink":"/backend/message-brokers/"}]}')}}]);

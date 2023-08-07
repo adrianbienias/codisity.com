@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2057],{393:e=>{e.exports=JSON.parse('{"label":"Prometheus","permalink":"/tags/prometheus","allTagsPath":"/tags","count":1,"items":[{"id":"backend/monitoring/index","title":"Monitoring","description":"Links","permalink":"/backend/monitoring/"}]}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[1706],{5598:e=>{e.exports=JSON.parse('{"label":"Elasticsearch","permalink":"/tags/elasticsearch","allTagsPath":"/tags","count":1,"items":[{"id":"backend/search-engines/index","title":"Search engines","description":"Links","permalink":"/backend/search-engines/"}]}')}}]);

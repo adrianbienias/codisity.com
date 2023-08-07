@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2015],{766:e=>{e.exports=JSON.parse('{"label":"RESTful","permalink":"/tags/res-tful","allTagsPath":"/tags","count":1,"items":[{"id":"backend/backend-api/restful-api","title":"RESTful API","description":"Links","permalink":"/backend/backend-api/restful-api"}]}')}}]);
