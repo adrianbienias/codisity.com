@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5202],{4999:i=>{i.exports=JSON.parse('{"label":"Libs","permalink":"/tags/libs","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/libraries/index","title":"Libraries","description":"Links","permalink":"/frontend/libraries/"}]}')}}]);
