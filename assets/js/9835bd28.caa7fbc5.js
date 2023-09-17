@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[9699],{9409:a=>{a.exports=JSON.parse('{"label":"Pagination","permalink":"/tags/pagination","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/paginacja/index","title":"Pagination","description":"Links","permalink":"/fullstack/paginacja/"}]}')}}]);
