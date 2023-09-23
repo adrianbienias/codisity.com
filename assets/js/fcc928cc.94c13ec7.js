@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[8553],{7434:s=>{s.exports=JSON.parse('{"label":"PHP","permalink":"/tags/php","allTagsPath":"/tags","count":1,"items":[{"id":"basics/programming-languages/php","title":"PHP","description":"Links","permalink":"/basics/programming-languages/php"}]}')}}]);

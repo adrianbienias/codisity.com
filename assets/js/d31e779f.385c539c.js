@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[8813],{4908:e=>{e.exports=JSON.parse('{"label":"Code review","permalink":"/tags/code-review","allTagsPath":"/tags","count":1,"items":[{"id":"basics/version-control/code-review","title":"Code review","description":"Links","permalink":"/basics/version-control/code-review"}]}')}}]);

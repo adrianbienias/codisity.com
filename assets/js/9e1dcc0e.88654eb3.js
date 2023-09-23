@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2465],{9491:t=>{t.exports=JSON.parse('{"label":"Prettier","permalink":"/tags/prettier","allTagsPath":"/tags","count":1,"items":[{"id":"basics/code-editors/code-formatting","title":"Code formatting","description":"Links","permalink":"/basics/code-editors/code-formatting"}]}')}}]);

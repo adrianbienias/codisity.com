@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[7108],{4586:i=>{i.exports=JSON.parse('{"label":"GitHub","permalink":"/tags/git-hub","allTagsPath":"/tags","count":1,"items":[{"id":"basics/version-control/github","title":"GitHub","description":"Links","permalink":"/basics/version-control/github"}]}')}}]);

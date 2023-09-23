@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2849],{3542:s=>{s.exports=JSON.parse('{"label":"OWASP","permalink":"/tags/owasp","allTagsPath":"/tags","count":1,"items":[{"id":"basics/security/index","title":"Security","description":"Links","permalink":"/basics/security/"}]}')}}]);

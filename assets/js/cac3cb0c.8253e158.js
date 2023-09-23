@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[5217],{45:s=>{s.exports=JSON.parse('{"label":"HTTP","permalink":"/tags/http","allTagsPath":"/tags","count":1,"items":[{"id":"basics/network/index","title":"Network","description":"Links","permalink":"/basics/network/"}]}')}}]);

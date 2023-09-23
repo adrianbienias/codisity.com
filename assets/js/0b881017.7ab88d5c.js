@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[654],{9847:s=>{s.exports=JSON.parse('{"label":"Hosting","permalink":"/tags/hosting","allTagsPath":"/tags","count":1,"items":[{"id":"basics/hosting/index","title":"Hosting","description":"Links","permalink":"/basics/hosting/"}]}')}}]);

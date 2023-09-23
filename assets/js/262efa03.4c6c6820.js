@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[6714],{878:i=>{i.exports=JSON.parse('{"label":"Vim","permalink":"/tags/vim","allTagsPath":"/tags","count":1,"items":[{"id":"basics/code-editors/vim","title":"Vim","description":"Links","permalink":"/basics/code-editors/vim"}]}')}}]);

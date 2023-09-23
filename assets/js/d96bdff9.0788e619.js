@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[3278],{6174:s=>{s.exports=JSON.parse('{"label":"TS","permalink":"/tags/ts","allTagsPath":"/tags","count":1,"items":[{"id":"basics/programming-languages/typescript","title":"TypeScript","description":"Links","permalink":"/basics/programming-languages/typescript"}]}')}}]);

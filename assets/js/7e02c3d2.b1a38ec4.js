@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[984],{4741:e=>{e.exports=JSON.parse('{"label":"Agile","permalink":"/tags/agile","allTagsPath":"/tags","count":1,"items":[{"id":"basics/project-management/index","title":"Project management","description":"Links","permalink":"/basics/project-management/"}]}')}}]);

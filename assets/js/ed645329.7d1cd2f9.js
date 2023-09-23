@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4236],{2578:s=>{s.exports=JSON.parse('{"label":"Cloud","permalink":"/tags/cloud","allTagsPath":"/tags","count":1,"items":[{"id":"basics/hosting/index","title":"Hosting","description":"Links","permalink":"/basics/hosting/"}]}')}}]);

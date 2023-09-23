@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[7907],{1816:e=>{e.exports=JSON.parse('{"label":"Performance","permalink":"/tags/performance","allTagsPath":"/tags","count":1,"items":[{"id":"basics/performance/index","title":"Performance","description":"Links","permalink":"/basics/performance/"}]}')}}]);
