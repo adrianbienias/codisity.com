@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[2180],{1389:e=>{e.exports=JSON.parse('{"label":"Solr","permalink":"/tags/solr","allTagsPath":"/tags","count":1,"items":[{"id":"backend/search-engines/index","title":"Search engines","description":"Links","permalink":"/backend/search-engines/"}]}')}}]);

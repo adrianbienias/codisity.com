@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4304],{5:i=>{i.exports=JSON.parse('{"label":"Email","permalink":"/tags/email","allTagsPath":"/tags","count":1,"items":[{"id":"backend/emails-handling/index","title":"Emails handling","description":"Links","permalink":"/backend/emails-handling/"}]}')}}]);

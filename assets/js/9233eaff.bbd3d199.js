@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4125],{2386:s=>{s.exports=JSON.parse('{"label":"SVG","permalink":"/tags/svg","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/svg/index","title":"SVG","description":"Links","permalink":"/frontend/svg/"}]}')}}]);

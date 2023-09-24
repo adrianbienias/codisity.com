@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[818],{7098:s=>{s.exports=JSON.parse('{"label":"Astro","permalink":"/tags/astro","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/astro/index","title":"Astro","description":"Links","permalink":"/frontend/astro/"}]}')}}]);

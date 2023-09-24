@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[323],{830:e=>{e.exports=JSON.parse('{"label":"Algolia","permalink":"/tags/algolia","allTagsPath":"/tags","count":1,"items":[{"id":"backend/search-engines/index","title":"Search engines","description":"Links","permalink":"/backend/search-engines/"}]}')}}]);

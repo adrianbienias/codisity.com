@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4293],{1906:e=>{e.exports=JSON.parse('{"label":"React","permalink":"/tags/react","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/react/index","title":"React","description":"Links","permalink":"/frontend/react/"}]}')}}]);

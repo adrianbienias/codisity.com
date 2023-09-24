@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[1109],{7676:e=>{e.exports=JSON.parse('{"label":"Bundle","permalink":"/tags/bundle","allTagsPath":"/tags","count":1,"items":[{"id":"frontend/packages-and-bundlers/index","title":"Packages and bundlers","description":"Links","permalink":"/frontend/packages-and-bundlers/"}]}')}}]);

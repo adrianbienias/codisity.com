@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcodisity_com=self.webpackChunkcodisity_com||[]).push([[4215],{8896:e=>{e.exports=JSON.parse('{"label":"WebSocket","permalink":"/tags/web-socket","allTagsPath":"/tags","count":1,"items":[{"id":"fullstack/websocket/index","title":"WebSocket","description":"Links","permalink":"/fullstack/websocket/"}]}')}}]);
